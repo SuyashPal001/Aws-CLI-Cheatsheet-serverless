@@ -1,5 +1,4 @@
-# Aws-CLI-Cheatsheet-serverless
-This is list of all commands for serverless framework that will be essential to use in project for aws cli
+
 # AWS Serverless CLI Cheat Sheet
 
 Complete reference for AWS CLI commands focused on serverless architecture and common AWS services.
